@@ -1,0 +1,7 @@
+@Records = React.createClass
+    render: ->
+        React.DOM.div
+            className 'Records'
+            React.DOM.h2
+                className 'title'
+                'Records'
