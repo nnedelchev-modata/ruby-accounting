@@ -50,4 +50,3 @@
           className: 'btn btn-primary'
           disabled: !@valid()
           'Въведи'
-          
